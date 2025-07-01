@@ -1,10 +1,11 @@
 # Hi there! 👋
 
-I'm Carson, a Software Engineer from Oklahoma.
+I'm Carson, a Software Engineer from Colorado.
 
 ## About Me
 
 - 💼 I am currently working on the C++ Static Analysis team [@microsoft](https://github.com/microsoft).
+- 📝 I will be starting my Master's degree at UT Austin in Fall 2025. 
 
 ## My Skills
 
