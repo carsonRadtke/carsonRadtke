@@ -4,8 +4,7 @@ I'm Carson, a Software Engineer from Colorado.
 
 ## About Me
 
-- 💼 I am currently working on the C++ Static Analysis team [@microsoft](https://github.com/microsoft).
-- 📝 I will be starting my Master's degree at UT Austin in Fall 2025. 
+- 💼 I am currently working on the C++ IDE team [@microsoft](https://github.com/microsoft).
 
 ## My Skills
 
